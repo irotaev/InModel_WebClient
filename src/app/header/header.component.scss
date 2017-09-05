@@ -1,0 +1,8 @@
+@import "../framework.globals";
+
+#header-1 {
+  width: 100%;
+  height: $column_step*6;
+
+  background-color: $color_primary_normal;
+}
